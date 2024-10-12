@@ -1,6 +1,12 @@
-<a href="#">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHBk0RDOioSrQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684227790414?e=1733961600&v=beta&t=YEzIsJbN2PS3vj1Cad1vDvocuSMN71q8QF9jOfuAK50" alt="MasterHead" width="2000" height="600">
-</a>
+<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+  <a href="#">
+    <img src="https://media.licdn.com/dms/image/C5612AQEMPu8XCaxSrg/article-cover_image-shrink_600_2000/0/1586397054105?e=2147483647&v=beta&t=WsUtS11iPM9CpUbbfPTBiptDd3kAcbhVai3YkeBAP0g" alt="MasterHead" width="2000" height="600">
+  </a>
+</div>
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Kim Junseok</h1>
 <h3 align="center">Passionate Data Science Enthusiast | Aspiring Data Analyst with a Focus on Transforming Data into Actionable Insights | Korean</h3>
