@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, **I'm Junseok Kim**</h1>
+<h1 align="center">Hi 👋, I'm Junseok Kim</h1>
 <h3 align="center">Passionate Data Science Enthusiast | Aspiring Data Analyst with a Focus on Transforming Data into Actionable Insights | Korean</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
