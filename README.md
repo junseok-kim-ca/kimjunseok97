@@ -45,10 +45,3 @@
     <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
   </a>
 </p>
-
-&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimjunseok97&show_icons=true&locale=en&layout=compact" alt="kimjunseok97" /></p>
-
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimjunseok97&show_icons=true&locale=en" alt="kimjunseok97" /></p>
-
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimjunseok97&" alt="kimjunseok97" /></p>
